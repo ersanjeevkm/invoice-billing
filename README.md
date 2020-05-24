@@ -26,6 +26,8 @@ NOTE :
 
 3) You can change the bill no. in login.txt file, where the third line corresponds to previous bill no. , to start from fresh type in 0 in third line
 
-#**Important note this program reqires Python 2.x and make sure that you have installed all the required modules from pip**
+#**Important note this program reqires Python 3.5+ and make sure that you have installed all the required modules from pip**
 
 #**If you are running pyton 2.x check my another repository invoice-billing_2.0**
+
+# FOR ANY ASSISTANCE CONTACT ME VIA E-MAIL : er.sanjeev.au@gmail.com
